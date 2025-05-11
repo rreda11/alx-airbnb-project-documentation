@@ -95,5 +95,5 @@ This project is a backend system for an Airbnb-like booking platform. Below is a
 
 ---
 
-> 💡 This backend is modular and designed for extension with frontend frameworks or mobile apps.
+![Screenshot](image.png)
 
